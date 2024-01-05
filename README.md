@@ -26,10 +26,12 @@
   These can be installed by using npm install because they are in package.json.
   ## Usage 
   Once installed in the terminal use ``` npm run start``` to start our server it should look like this:
-
+  ![Alt text](./assets/Install_screenshot.png)
   Then, the browser can be opened and when install is clicked it will create a icon on desktop that can be opened like other applications:
-  ## Contributing
-  N/A
+  ![Alt text](./assets/Icon_screenshot.png)
+  ![Alt text](./assets/PWA_Screenshot.png)
+  ## Demonstration video
+  ![](./assets/JATE%20Demo.webm))
 
   ## Questions
   - Email: junior_poku@hotmail.com
